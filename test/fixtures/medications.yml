@@ -1,0 +1,15 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  name: MyString
+  generic_name: MyString
+  uses: MyText
+  side_effects: MyText
+  precautions: MyText
+
+two:
+  name: MyString
+  generic_name: MyString
+  uses: MyText
+  side_effects: MyText
+  precautions: MyText
