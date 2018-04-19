@@ -6,13 +6,11 @@ http://debthecoderjohnson.com/react_redux_final_project_medications_app
 
 ## Synopsis
 
-This Rails project with React/Redux displays a list of medications and allows the user to read medication information and submit a review which includes a rating and a comment.
+This Rails project with React/Redux displays a list of medications and allows the user to read medication information and submit a review which includes a rating and a comment. This app is now deployed on heroku at http://medications-app.herokuapp.com. It has 3 medications and 3 reviews.
 
 ## Install Instructions
 
-This API is now deployed on heroku at http://medications-app-api.herokuapp.com/api/medications. It has 3 medications and 3 reviews as seeds.
-
-Fork and clone this github repository. Run bundle install, rake db:migrate, and rake db:seed. Run rails s -p 3001 from this api. Then fork and clone the client https://github.com/debjohnson33/medications-app-client repository. Run npm install && npm start from the client. Enjoy!
+Fork and clone at this github repository. Run bundle install, rake db:migrate, and rake db:seed. Then run rake start. Enjoy!
 
 ## Contributing
 
