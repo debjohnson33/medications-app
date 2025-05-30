@@ -1,12 +1,15 @@
 # README
 
+## Deprecation 
+Please note that this app is no longer live on Heroku.
+
 ## Blog Post
 
 http://debthecoderjohnson.com/react_redux_final_project_medications_app
 
 ## Synopsis
 
-This Rails project with React/Redux displays a list of medications and allows the user to read medication information and submit a review which includes a rating and a comment. This app is now deployed on heroku at http://medications-app.herokuapp.com. It has 3 medications and 3 reviews.
+This Rails project with React/Redux displays a list of medications and allows the user to read medication information and submit a review which includes a rating and a comment.
 
 ## Install Instructions
 
